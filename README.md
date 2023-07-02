@@ -1,1 +1,1 @@
-# CodingTheMind.github.io
+# CodingTheMind
